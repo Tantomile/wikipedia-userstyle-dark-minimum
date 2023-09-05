@@ -8,7 +8,7 @@ a:visited {
 
 input,
 .unsolved {
-	background: #000 !important;
+	background: #111 !important;
 	color: #ddd !important;
 	border-color: #555 !important;
 }
