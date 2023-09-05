@@ -24,7 +24,7 @@ hr,
 .mw-parser-output .divbox-gray,
 .mwe-upwiz-license-metadata,
 figure[typeof~="mw:File/Thumb"] {
-	background-color: #000 !important;
+	background-color: #111 !important;
 	border: 0 !important;
 }
 .documentation-startbox {
@@ -34,7 +34,7 @@ figure[typeof~="mw:File/Thumb"] {
 #mw-fr-reviewnotice,
 .navbox,
 .navbox-group {
-	background-color: #000 !important;
+	background-color: #111 !important;
 	color: #888;
 	border: none !important;
 }
@@ -63,7 +63,7 @@ tr,
 .wikibase-sitelinklistview .wikibase-sitelinkview .wikibase-sitelinkview-siteid-container,
 figure[typeof~="mw:File/Thumb"] > figcaption,
 .flaggedrevs-color-0 /* diff: phrase "Pending revisions" */ {
-    background: #000 !important;
+    background: #111 !important;
 }
 
 /* background highlight color, like here https://commons.wikimedia.org/wiki/User:Nichalp/Upload_script */
@@ -88,11 +88,11 @@ figure[typeof~="mw:File/Thumb"] > figcaption,
 
 div.vectorTabs ul li{
 	background-image: none;
-	background: #000;
+	background: #111;
 }
 
 .mw-advancedSearch-fieldContainer .oo-ui-labelElement > .oo-ui-fieldsetLayout-header > .oo-ui-labelElement-label {
-	background: #000;
+	background: #111;
 	color: lightgray;
 }
 
@@ -108,11 +108,11 @@ div.vectorTabs ul li{
 /* Popup in editing mode */
 #mwdw,
 .oo-ui-popupWidget-popup { /* Wikidata: popup with "Potential issue" */
-    color: #000;
+    color: #111;
 }
 
 .infobox {
-	background: #000;
+	background: #111;
 	color: lightgray;
 	border: none;
 }
@@ -120,7 +120,7 @@ div.vectorTabs ul li{
 div.thumbinner,
 .editOptions /* page for editing css - below code */
 {
-	background-color: #000;
+	background-color: #111;
 	border: none !important;
 }
 
@@ -144,7 +144,7 @@ table,
 .catlinks, 
 .noprint
 {
-	background: #000 !important;
+	background: #111 !important;
 	border: none !important;
 }
 
@@ -166,11 +166,11 @@ th {
 
 #mw-page-base {
 	background-image: none;
-	background: #000;
+	background: #111;
 }
 
 .mw-body {
-	background: #000;
+	background: #111;
 	border-width: 0;
 }
 
@@ -192,7 +192,7 @@ aside p, /* related articles: titles & second line with desc*/
 
 #toc
 {
-	background: #000;
+	background: #111;
 	border: 0;
 }
 
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 
 code {
 	color: lightgray;
-	background: #000;
+	background: #111;
 	border: 1px solid;
 }
 
@@ -220,13 +220,13 @@ code {
 }
 
 .mw-code {
-	background: #000;
+	background: #111;
 	color: lightgray;
 	border: 0;
 }
 
 pre, .mw-code {
-	background: #000;
+	background: #111;
 	color: lightgray;
 	border: 0;
 }
@@ -292,7 +292,7 @@ pre, .mw-code {
 .nc,.nf{color: #9090DB !important;}
 
 .ambox {
-	background: #000;
+	background: #111;
 	border: 1px solid lightgray;
 }
 
@@ -300,7 +300,7 @@ blockquote,
 .wikibase-statementgroupview-property,
 .wikibase-statementlistview,
 .wikibase-sitelinkgroupview-heading-container {
-	background: #000 !important;
+	background: #111 !important;
 	border: 1px solid darkslategrey !important;
 }
 
@@ -317,7 +317,7 @@ blockquote,
 }
 
 .valueview-ineditmode .valueview-input {
-	color: #000;
+	color: #111;
 }
 
 div[style*="#FCFCCC;"] {
@@ -345,7 +345,7 @@ td
 
 html {
     scrollbar-width: thin;
-    scrollbar-color: #555 #000;
+    scrollbar-color: #555 #111;
 }
 
 
