@@ -371,3 +371,9 @@ body.mediawiki .ve-ce-mwLatexNode .mwe-math-mathml-a11y {
 .mwe-math-mathml-display + .mwe-math-fallback-image-display {
     display: none !important;
 }
+
+/*hide random elements*/
+#editpage-copywarn, /* By saving changes you agree to the terms of use... */
+#editpage-copywarn2,
+#n-shoplink, /* Wikipedia Store */
+#n-sitesupport, /* Donate to WP */
